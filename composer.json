@@ -1,0 +1,6 @@
+{
+    "require": {
+        "ratchet/pawl": "^0.3.2",
+        "google/protobuf": "^3.6"
+    }
+}

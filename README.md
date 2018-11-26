@@ -11,3 +11,8 @@
 1. cd /path/to/project
 2. composer install
 3. protoc --php_out=protoCompiled proto/messenger3.proto
+
+
+## Run
+1. cd path/to/project
+2. php ratchet.php

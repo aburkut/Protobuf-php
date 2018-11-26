@@ -7,7 +7,7 @@
 3. protoc (http://google.github.io/proto-lens/installing-protoc.html)
 
 
-## Intallation:
+## Installation:
 1. cd /path/to/project
 2. composer install
 3. protoc --php_out=protoCompiled proto/messenger3.proto

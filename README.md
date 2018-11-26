@@ -2,9 +2,9 @@
 
 
 ## Requirements:
-php > 7
-composer (https://getcomposer.org/download/)
-protoc (http://google.github.io/proto-lens/installing-protoc.html)
+1. php > 7
+2. composer (https://getcomposer.org/download/)
+3. protoc (http://google.github.io/proto-lens/installing-protoc.html)
 
 
 ## Intallation:
